@@ -1,0 +1,33 @@
+h1{
+    font-size: 32px;
+    color:black;
+    text-align:center;
+}
+
+.introduce {
+    text-align: left;
+    font-size: 22px;
+    font-family:monospace;
+    position: relative;
+    left: 650px;
+    top:-30px;
+  }
+
+.blue {
+  color: #002db3;
+  font-weight:bolder;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5cm;
+  }
+body{
+   
+    background-image:url("ocean.jpg");
+}
+marquee{
+    font-size: 35px;
+}
